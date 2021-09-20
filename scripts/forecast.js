@@ -1,8 +1,8 @@
 // This app works with ACCU WEATHER API
 
-const key = 'xxxxxxxxx'; // replace the value with your own ACCU Weather API_KEY
+const key = 'xxxxx'; // replace the value with your own ACCU Weather API_KEY
 
-const key = process.env.ACCU_API_KEY
+// const key = process.env.ACCU_API_KEY
 console.log(key)
 
 // get weather information
